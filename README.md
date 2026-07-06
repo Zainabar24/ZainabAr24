@@ -1,16 +1,63 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Zainabar24/ZainabAr24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✨ Hi, I'm **Zainab Ar Rahman**
 
-Here are some ideas to get you started:
+### 💜 Software Engineer • Full Stack Developer • AI Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+# 🌸 About Me
+
+```cpp
+class Zainab {
+public:
+    string role = "Software Engineer";
+    string interests = "Full Stack • Artificial Intelligence";
+    string currentlyLearning = "System Design & Backend Development";
+    string motto = "Build. Learn. Improve.";
+};
+```
+
+- 💜 Passionate about building impactful software
+- 🌱 Continuously learning modern technologies
+- 📚 Enjoy solving coding challenges
+- ✨ Believe great software comes from simple ideas
+
+---
+
+# 🛠️ Tech Stack
+
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,react,nextjs,nodejs,mongodb,mysql,firebase" />
+</p>
+
+---
+
+<div align="center">
+
+### 🌷 Let's Connect
+
+<a href="mailto:zainabar1103@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+
+<a href="https://github.com/ZainabAr24">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+
+<a href="https://www.linkedin.com/in/zainab-ar-rahman-745817407/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌸 *"Code with curiosity, build with confidence."*
+
+</div>
